@@ -1,7 +1,7 @@
 {
   "repository": "Aqamoe/FGB-Module-Kit",
-  "version": "0.1.0",
-  "url": "https://github.com/Aqamoe/FGB-Module-Kit/archive/refs/tags/v0.1.0.tar.gz",
-  "sha256": "d065cbc021b8540f9aeb902235c11012298d05e6d84ebdd75440d6fd17b73f9c",
+  "version": "0.1.1",
+  "url": "https://github.com/Aqamoe/FGB-Module-Kit/archive/refs/tags/v0.1.1.tar.gz",
+  "sha256": "d8be45aed24434881b0f20efbf2c45823d664c5224e2fc1917ead84572c275f4",
   "note": "Kit 仓库发布 v0.1.0 后由 tools/sync-kit.mjs 填入归档哈希；本地开发用 -DFGB_KIT_DIR 覆盖。"
 }
