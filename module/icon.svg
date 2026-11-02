@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="MeowFace">
+  <title>MeowFace</title>
+  <desc>猫脸轮廓，透明背景，单色在中性灰度下对深色与浅色主题都可读。</desc>
+  <g fill="none" stroke="#8C97AC" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 40 L26 16 L50 28" />
+    <path d="M96 40 L102 16 L78 28" />
+    <circle cx="64" cy="66" r="40" />
+    <path d="M46 60 l8 6 -8 6" />
+    <path d="M82 60 l-8 6 8 6" />
+    <path d="M64 78 v6" />
+    <path d="M64 84 c-6 6 -14 4 -16 0" />
+    <path d="M64 84 c6 6 14 4 16 0" />
+    <path d="M20 68 h14" />
+    <path d="M94 68 h14" />
+    <path d="M22 80 l14 -4" />
+    <path d="M106 80 l-14 -4" />
+  </g>
+</svg>
